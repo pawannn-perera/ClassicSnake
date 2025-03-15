@@ -1,6 +1,4 @@
-# React Snake Game 🐍
-
-A modern implementation of the classic Snake game built with React, TypeScript, and Tailwind CSS.
+# Classic Snake Game 🐍
 
 ## Features
 
@@ -87,10 +85,6 @@ src/
 - **Score Tracking**: Maintains current score and high score in localStorage
 - **Responsive Design**: Tailwind CSS classes for adaptive layout
 - **Type Safety**: Full TypeScript implementation
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
